@@ -1,4 +1,4 @@
-# 💫 About Me:
+#
 Hey folks!!<br><br><br>Developer | Coder<br>Student at COEP Technological University
 
 
