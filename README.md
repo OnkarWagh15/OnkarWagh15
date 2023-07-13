@@ -12,6 +12,12 @@ Hope you're doing great:)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=OnkarWagh15&theme=algolia&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 
+![Visitor Count](https://profile-counter.glitch.me/{OnkarWagh15}/count.svg)
+
+
+
+
+
 
 [![](https://visitcount.itsvg.in/api?id=OnkarWagh15&icon=0&color=1)](https://visitcount.itsvg.in)
 ### ✍️ Random Dev Quote
