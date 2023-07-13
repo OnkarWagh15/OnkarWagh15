@@ -15,6 +15,6 @@ Hope you're doing great:)
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-![](https://komarev.com/ghpvc/?username=OnkarWagh15=PROFILE+VIEWS)
+![](https://komarev.com/ghpvc/?username=OnkarWagh15PROFILE+VIEWS)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
