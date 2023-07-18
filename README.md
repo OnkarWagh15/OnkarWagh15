@@ -10,7 +10,7 @@ Fun Fact: Why do programmers prefer dark mode? Because light attracts bugs. XD</
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=OnkarWagh15&theme=algolia&include_all_commits=true&count_private=true)<center>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=OnkarWagh15&theme=algolia&hide_border=false)<center>
-![](https://github-readme-stats.vercel.app/api/top-langs/username=OnkarWagh15&theme=algolia&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs?/username=OnkarWagh15&theme=algolia&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 
 ### ✍️ Random Dev Quote
