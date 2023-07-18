@@ -1,6 +1,6 @@
 #
 Hey folks!!<br>
-Hope you're doing great:)<p><b>
+Hope you're doing great:)<p><b> 
 Fun Fact: Why do programmers prefer dark mode? Because light attracts bugs. XD</b>
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/onkar_wagh15) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/onkar-wagh) 
